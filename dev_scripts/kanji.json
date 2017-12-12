@@ -1,0 +1,4076 @@
+[
+  [
+    {
+      "content": "<h2>日</h2>\n\t\t\t\t<img src=\"../img/stroke_order/2160.png\" align=\"right\" alt=\"kanji stroke order for 日\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: ひ, -び, -か</li>\n\t\t\t\t\t<li>on: ジツ, ニチ</li>\n\t\t\t\t\t<li>meaning: Japan, counter for days, day, sun<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 3473,
+      "endPos": 3691
+    },
+    {
+      "content": "日",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 3477,
+      "endPos": 3478
+    },
+    {
+      "content": " ひ, -び, -か",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 3598,
+      "endPos": 3608
+    },
+    {
+      "content": " ジツ, ニチ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 3626,
+      "endPos": 3633
+    },
+    {
+      "content": " Japan, counter for days, day, sun",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 3656,
+      "endPos": 3690
+    }
+  ],
+  [
+    {
+      "content": "<h2>一</h2>\n\t\t\t\t<img src=\"../img/stroke_order/76.png\" align=\"right\" alt=\"kanji stroke order for 一\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: ひと-, ひと.つ</li>\n\t\t\t\t\t<li>on: イチ, イツ</li>\n\t\t\t\t\t<li>meaning: one, one radical (no.1)<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 4748,
+      "endPos": 4954
+    },
+    {
+      "content": "一",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 4752,
+      "endPos": 4753
+    },
+    {
+      "content": " ひと-, ひと.つ",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 4871,
+      "endPos": 4881
+    },
+    {
+      "content": " イチ, イツ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 4899,
+      "endPos": 4906
+    },
+    {
+      "content": " one, one radical (no.1)",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 4929,
+      "endPos": 4953
+    }
+  ],
+  [
+    {
+      "content": "<h2>人</h2>\n\t\t\t\t<img src=\"../img/stroke_order/1455.png\" align=\"right\" alt=\"kanji stroke order for 人\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: -と, ひと, -り</li>\n\t\t\t\t\t<li>on: ジン, ニン</li>\n\t\t\t\t\t<li>meaning: person<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 6690,
+      "endPos": 6882
+    },
+    {
+      "content": "人",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 6694,
+      "endPos": 6695
+    },
+    {
+      "content": " -と, ひと, -り",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 6815,
+      "endPos": 6826
+    },
+    {
+      "content": " ジン, ニン",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 6844,
+      "endPos": 6851
+    },
+    {
+      "content": " person",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 6874,
+      "endPos": 6881
+    }
+  ],
+  [
+    {
+      "content": "<h2>年</h2>\n\t\t\t\t<img src=\"../img/stroke_order/2177.png\" align=\"right\" alt=\"kanji stroke order for 年\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: とし</li>\n\t\t\t\t\t<li>on: ネン</li>\n\t\t\t\t\t<li>meaning: year, counter for years<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 7990,
+      "endPos": 8187
+    },
+    {
+      "content": "年",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 7994,
+      "endPos": 7995
+    },
+    {
+      "content": " とし",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 8115,
+      "endPos": 8118
+    },
+    {
+      "content": " ネン",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 8136,
+      "endPos": 8139
+    },
+    {
+      "content": " year, counter for years",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 8162,
+      "endPos": 8186
+    }
+  ],
+  [
+    {
+      "content": "<h2>大</h2>\n\t\t\t\t<img src=\"../img/stroke_order/1763.png\" align=\"right\" alt=\"kanji stroke order for 大\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: おお-, おお.きい, -おお.いに</li>\n\t\t\t\t\t<li>on: ダイ, タイ</li>\n\t\t\t\t\t<li>meaning: large, big<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 9181,
+      "endPos": 9385
+    },
+    {
+      "content": "大",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 9185,
+      "endPos": 9186
+    },
+    {
+      "content": " おお-, おお.きい, -おお.いに",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 9306,
+      "endPos": 9325
+    },
+    {
+      "content": " ダイ, タイ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 9343,
+      "endPos": 9350
+    },
+    {
+      "content": " large, big",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 9373,
+      "endPos": 9384
+    }
+  ],
+  [
+    {
+      "content": "<h2>十</h2>\n\t\t\t\t<img src=\"../img/stroke_order/1251.png\" align=\"right\" alt=\"kanji stroke order for 十\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: とお, と</li>\n\t\t\t\t\t<li>on: ジュウ, ジッ, ジュッ</li>\n\t\t\t\t\t<li>meaning: ten<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 10632,
+      "endPos": 10822
+    },
+    {
+      "content": "十",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 10636,
+      "endPos": 10637
+    },
+    {
+      "content": " とお, と",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 10757,
+      "endPos": 10763
+    },
+    {
+      "content": " ジュウ, ジッ, ジュッ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 10781,
+      "endPos": 10794
+    },
+    {
+      "content": " ten",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 10817,
+      "endPos": 10821
+    }
+  ],
+  [
+    {
+      "content": "<h2>二</h2>\n\t\t\t\t<img src=\"../img/stroke_order/2151.png\" align=\"right\" alt=\"kanji stroke order for 二\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: ふた, ふた.つ, ふたた.び</li>\n\t\t\t\t\t<li>on: ジ, ニ</li>\n\t\t\t\t\t<li>meaning: two radical (no.2), two<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 11767,
+      "endPos": 11979
+    },
+    {
+      "content": "二",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 11771,
+      "endPos": 11772
+    },
+    {
+      "content": " ふた, ふた.つ, ふたた.び",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 11892,
+      "endPos": 11908
+    },
+    {
+      "content": " ジ, ニ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 11926,
+      "endPos": 11931
+    },
+    {
+      "content": " two radical (no.2), two",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 11954,
+      "endPos": 11978
+    }
+  ],
+  [
+    {
+      "content": "<h2>本</h2>\n\t\t\t\t<img src=\"../img/stroke_order/2598.png\" align=\"right\" alt=\"kanji stroke order for 本\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: もと</li>\n\t\t\t\t\t<li>on: ホン</li>\n\t\t\t\t\t<li>meaning: book, present, main, true, real, counter for long cylindrical things<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 12937,
+      "endPos": 13179
+    },
+    {
+      "content": "本",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 12941,
+      "endPos": 12942
+    },
+    {
+      "content": " もと",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 13062,
+      "endPos": 13065
+    },
+    {
+      "content": " ホン",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 13083,
+      "endPos": 13086
+    },
+    {
+      "content": " book, present, main, true, real, counter for long cylindrical things",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 13109,
+      "endPos": 13178
+    }
+  ],
+  [
+    {
+      "content": "<h2>中</h2>\n\t\t\t\t<img src=\"../img/stroke_order/1856.png\" align=\"right\" alt=\"kanji stroke order for 中\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: うち, あた.る, なか</li>\n\t\t\t\t\t<li>on: チュウ</li>\n\t\t\t\t\t<li>meaning: inside, middle, mean, center, in<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 14256,
+      "endPos": 14473
+    },
+    {
+      "content": "中",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 14260,
+      "endPos": 14261
+    },
+    {
+      "content": " うち, あた.る, なか",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 14381,
+      "endPos": 14394
+    },
+    {
+      "content": " チュウ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 14412,
+      "endPos": 14416
+    },
+    {
+      "content": " inside, middle, mean, center, in",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 14439,
+      "endPos": 14472
+    }
+  ],
+  [
+    {
+      "content": "<h2>出</h2>\n\t\t\t\t<img src=\"../img/stroke_order/1270.png\" align=\"right\" alt=\"kanji stroke order for 出\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: い.だす, で.る, -で, だ.す, -だ.す, い.でる</li>\n\t\t\t\t\t<li>on: シュツ, スイ</li>\n\t\t\t\t\t<li>meaning: leave, exit<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 15730,
+      "endPos": 15948
+    },
+    {
+      "content": "出",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 15734,
+      "endPos": 15735
+    },
+    {
+      "content": " い.だす, で.る, -で, だ.す, -だ.す, い.でる",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 15855,
+      "endPos": 15886
+    },
+    {
+      "content": " シュツ, スイ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 15904,
+      "endPos": 15912
+    },
+    {
+      "content": " leave, exit",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 15935,
+      "endPos": 15947
+    }
+  ],
+  [
+    {
+      "content": "<h2>三</h2>\n\t\t\t\t<img src=\"../img/stroke_order/1050.png\" align=\"right\" alt=\"kanji stroke order for 三\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: み, み.つ, みっ.つ</li>\n\t\t\t\t\t<li>on: ゾウ, サン</li>\n\t\t\t\t\t<li>meaning: three<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 17804,
+      "endPos": 17997
+    },
+    {
+      "content": "三",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 17808,
+      "endPos": 17809
+    },
+    {
+      "content": " み, み.つ, みっ.つ",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 17929,
+      "endPos": 17942
+    },
+    {
+      "content": " ゾウ, サン",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 17960,
+      "endPos": 17967
+    },
+    {
+      "content": " three",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 17990,
+      "endPos": 17996
+    }
+  ],
+  [
+    {
+      "content": "<h2>見</h2>\n\t\t\t\t<img src=\"../img/stroke_order/763.png\" align=\"right\" alt=\"kanji stroke order for 見\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: み.る, み.える, み.せる</li>\n\t\t\t\t\t<li>on: ケン</li>\n\t\t\t\t\t<li>meaning: hopes, chances, idea, opinion, look at, visible, see<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 18947,
+      "endPos": 19185
+    },
+    {
+      "content": "見",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 18951,
+      "endPos": 18952
+    },
+    {
+      "content": " み.る, み.える, み.せる",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 19071,
+      "endPos": 19087
+    },
+    {
+      "content": " ケン",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 19105,
+      "endPos": 19108
+    },
+    {
+      "content": " hopes, chances, idea, opinion, look at, visible, see",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 19131,
+      "endPos": 19184
+    }
+  ],
+  [
+    {
+      "content": "<h2>月</h2>\n\t\t\t\t<img src=\"../img/stroke_order/736.png\" align=\"right\" alt=\"kanji stroke order for 月\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: つき</li>\n\t\t\t\t\t<li>on: ゲツ, ガツ</li>\n\t\t\t\t\t<li>meaning: month, moon<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 20334,
+      "endPos": 20522
+    },
+    {
+      "content": "月",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 20338,
+      "endPos": 20339
+    },
+    {
+      "content": " つき",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 20458,
+      "endPos": 20461
+    },
+    {
+      "content": " ゲツ, ガツ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 20479,
+      "endPos": 20486
+    },
+    {
+      "content": " month, moon",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 20509,
+      "endPos": 20521
+    }
+  ],
+  [
+    {
+      "content": "<h2>生</h2>\n\t\t\t\t<img src=\"../img/stroke_order/1528.png\" align=\"right\" alt=\"kanji stroke order for 生\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: む.す, お.う, う.まれる, なま, -う, は.える, う.まれ, なま-, い.きる, は.やす, うまれ, な.る, い.かす, き, う.む, な.す, い.ける</li>\n\t\t\t\t\t<li>on: セイ, ショウ</li>\n\t\t\t\t\t<li>meaning: birth, genuine, life<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 21373,
+      "endPos": 21657
+    },
+    {
+      "content": "生",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 21377,
+      "endPos": 21378
+    },
+    {
+      "content": " む.す, お.う, う.まれる, なま, -う, は.える, う.まれ, なま-, い.きる, は.やす, うまれ, な.る, い.かす, き, う.む, な.す, い.ける",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 21498,
+      "endPos": 21586
+    },
+    {
+      "content": " セイ, ショウ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 21604,
+      "endPos": 21612
+    },
+    {
+      "content": " birth, genuine, life",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 21635,
+      "endPos": 21656
+    }
+  ],
+  [
+    {
+      "content": "<h2>五</h2>\n\t\t\t\t<img src=\"../img/stroke_order/814.png\" align=\"right\" alt=\"kanji stroke order for 五\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: いつ, いつ.つ</li>\n\t\t\t\t\t<li>on: ゴ</li>\n\t\t\t\t\t<li>meaning: five<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 22820,
+      "endPos": 23002
+    },
+    {
+      "content": "五",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 22824,
+      "endPos": 22825
+    },
+    {
+      "content": " いつ, いつ.つ",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 22944,
+      "endPos": 22953
+    },
+    {
+      "content": " ゴ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 22971,
+      "endPos": 22973
+    },
+    {
+      "content": " five",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 22996,
+      "endPos": 23001
+    }
+  ],
+  [
+    {
+      "content": "<h2>上</h2>\n\t\t\t\t<img src=\"../img/stroke_order/1385.png\" align=\"right\" alt=\"kanji stroke order for 上\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: のぼ.せる, のぼ.る, あ.がる, うえ, あ.げる, のぼ.す, のぼ.り, -あ.がる, -うえ, -あ.げる, よ.す, あ.がり, うわ-, -あ.がり, かみ</li>\n\t\t\t\t\t<li>on: シャン, ショウ, ジョウ</li>\n\t\t\t\t\t<li>meaning: above, up<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 23931,
+      "endPos": 24208
+    },
+    {
+      "content": "上",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 23935,
+      "endPos": 23936
+    },
+    {
+      "content": " のぼ.せる, のぼ.る, あ.がる, うえ, あ.げる, のぼ.す, のぼ.り, -あ.がる, -うえ, -あ.げる, よ.す, あ.がり, うわ-, -あ.がり, かみ",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 24056,
+      "endPos": 24142
+    },
+    {
+      "content": " シャン, ショウ, ジョウ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 24160,
+      "endPos": 24174
+    },
+    {
+      "content": " above, up",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 24197,
+      "endPos": 24207
+    }
+  ],
+  [
+    {
+      "content": "<h2>四</h2>\n\t\t\t\t<img src=\"../img/stroke_order/1079.png\" align=\"right\" alt=\"kanji stroke order for 四\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: よ, よ.つ, よっ.つ, よん</li>\n\t\t\t\t\t<li>on: シ</li>\n\t\t\t\t\t<li>meaning: four<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 25578,
+      "endPos": 25769
+    },
+    {
+      "content": "四",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 25582,
+      "endPos": 25583
+    },
+    {
+      "content": " よ, よ.つ, よっ.つ, よん",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 25703,
+      "endPos": 25720
+    },
+    {
+      "content": " シ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 25738,
+      "endPos": 25740
+    },
+    {
+      "content": " four",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 25763,
+      "endPos": 25768
+    }
+  ],
+  [
+    {
+      "content": "<h2>金</h2>\n\t\t\t\t<img src=\"../img/stroke_order/630.png\" align=\"right\" alt=\"kanji stroke order for 金\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: かな-, -がね, かね</li>\n\t\t\t\t\t<li>on: ゴン, キン, コン</li>\n\t\t\t\t\t<li>meaning: gold<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 26705,
+      "endPos": 26900
+    },
+    {
+      "content": "金",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 26709,
+      "endPos": 26710
+    },
+    {
+      "content": " かな-, -がね, かね",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 26829,
+      "endPos": 26842
+    },
+    {
+      "content": " ゴン, キン, コン",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 26860,
+      "endPos": 26871
+    },
+    {
+      "content": " gold",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 26894,
+      "endPos": 26899
+    }
+  ],
+  [
+    {
+      "content": "<h2>九</h2>\n\t\t\t\t<img src=\"../img/stroke_order/633.png\" align=\"right\" alt=\"kanji stroke order for 九\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: ここの, ここの.つ</li>\n\t\t\t\t\t<li>on: キュウ, ク</li>\n\t\t\t\t\t<li>meaning: nine<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 27922,
+      "endPos": 28111
+    },
+    {
+      "content": "九",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 27926,
+      "endPos": 27927
+    },
+    {
+      "content": " ここの, ここの.つ",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 28046,
+      "endPos": 28057
+    },
+    {
+      "content": " キュウ, ク",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 28075,
+      "endPos": 28082
+    },
+    {
+      "content": " nine",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 28105,
+      "endPos": 28110
+    }
+  ],
+  [
+    {
+      "content": "<h2>入</h2>\n\t\t\t\t<img src=\"../img/stroke_order/2162.png\" align=\"right\" alt=\"kanji stroke order for 入\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: い.れる, -い.れ, はい.る, い.る, -い.る, -い.り</li>\n\t\t\t\t\t<li>on: ジュ, ニュウ</li>\n\t\t\t\t\t<li>meaning: enter, insert<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 29158,
+      "endPos": 29381
+    },
+    {
+      "content": "入",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 29162,
+      "endPos": 29163
+    },
+    {
+      "content": " い.れる, -い.れ, はい.る, い.る, -い.る, -い.り",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 29283,
+      "endPos": 29317
+    },
+    {
+      "content": " ジュ, ニュウ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 29335,
+      "endPos": 29343
+    },
+    {
+      "content": " enter, insert",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 29366,
+      "endPos": 29380
+    }
+  ],
+  [
+    {
+      "content": "<h2>学</h2>\n\t\t\t\t<img src=\"../img/stroke_order/338.png\" align=\"right\" alt=\"kanji stroke order for 学\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: まな.ぶ</li>\n\t\t\t\t\t<li>on: ガク</li>\n\t\t\t\t\t<li>meaning: study, learning, science<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 30536,
+      "endPos": 30735
+    },
+    {
+      "content": "学",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 30540,
+      "endPos": 30541
+    },
+    {
+      "content": " まな.ぶ",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 30660,
+      "endPos": 30665
+    },
+    {
+      "content": " ガク",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 30683,
+      "endPos": 30686
+    },
+    {
+      "content": " study, learning, science",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 30709,
+      "endPos": 30734
+    }
+  ],
+  [
+    {
+      "content": "<h2>円</h2>\n\t\t\t\t<img src=\"../img/stroke_order/157.png\" align=\"right\" alt=\"kanji stroke order for 円\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: まど.か, まろ.やか, まる.い, まる, まど</li>\n\t\t\t\t\t<li>on: エン</li>\n\t\t\t\t\t<li>meaning: yen, round, circle<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 31835,
+      "endPos": 32049
+    },
+    {
+      "content": "円",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 31839,
+      "endPos": 31840
+    },
+    {
+      "content": " まど.か, まろ.やか, まる.い, まる, まど",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 31959,
+      "endPos": 31985
+    },
+    {
+      "content": " エン",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 32003,
+      "endPos": 32006
+    },
+    {
+      "content": " yen, round, circle",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 32029,
+      "endPos": 32048
+    }
+  ],
+  [
+    {
+      "content": "<h2>子</h2>\n\t\t\t\t<img src=\"../img/stroke_order/1084.png\" align=\"right\" alt=\"kanji stroke order for 子\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: こ, -こ, ね</li>\n\t\t\t\t\t<li>on: ツ, シ, ス</li>\n\t\t\t\t\t<li>meaning: sign of the rat, 11PM-1AM, child, first sign of Chinese zodiac<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 33153,
+      "endPos": 33400
+    },
+    {
+      "content": "子",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 33157,
+      "endPos": 33158
+    },
+    {
+      "content": " こ, -こ, ね",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 33278,
+      "endPos": 33287
+    },
+    {
+      "content": " ツ, シ, ス",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 33305,
+      "endPos": 33313
+    },
+    {
+      "content": " sign of the rat, 11PM-1AM, child, first sign of Chinese zodiac",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 33336,
+      "endPos": 33399
+    }
+  ],
+  [
+    {
+      "content": "<h2>八</h2>\n\t\t\t\t<img src=\"../img/stroke_order/2268.png\" align=\"right\" alt=\"kanji stroke order for 八\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: や, や.つ, やっ.つ, よう</li>\n\t\t\t\t\t<li>on: ハチ</li>\n\t\t\t\t\t<li>meaning: eight, eight radical (no. 12)<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 34473,
+      "endPos": 34690
+    },
+    {
+      "content": "八",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 34477,
+      "endPos": 34478
+    },
+    {
+      "content": " や, や.つ, やっ.つ, よう",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 34598,
+      "endPos": 34615
+    },
+    {
+      "content": " ハチ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 34633,
+      "endPos": 34636
+    },
+    {
+      "content": " eight, eight radical (no. 12)",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 34659,
+      "endPos": 34689
+    }
+  ],
+  [
+    {
+      "content": "<h2>六</h2>\n\t\t\t\t<img src=\"../img/stroke_order/2941.png\" align=\"right\" alt=\"kanji stroke order for 六\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: む.つ, むっ.つ, むい, む</li>\n\t\t\t\t\t<li>on: ロク, リク</li>\n\t\t\t\t\t<li>meaning: six<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 35772,
+      "endPos": 35967
+    },
+    {
+      "content": "六",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 35776,
+      "endPos": 35777
+    },
+    {
+      "content": " む.つ, むっ.つ, むい, む",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 35897,
+      "endPos": 35914
+    },
+    {
+      "content": " ロク, リク",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 35932,
+      "endPos": 35939
+    },
+    {
+      "content": " six",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 35962,
+      "endPos": 35966
+    }
+  ],
+  [
+    {
+      "content": "<h2>下</h2>\n\t\t\t\t<img src=\"../img/stroke_order/216.png\" align=\"right\" alt=\"kanji stroke order for 下\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: お.ろす, もと, しも, くだ.る, くだ.さる, -くだ.す, した, お.りる, さ.げる, くだ.り, さ.がる, くだ.す</li>\n\t\t\t\t\t<li>on: ゲ, カ</li>\n\t\t\t\t\t<li>meaning: below, give, descend, inferior, down, low<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 36908,
+      "endPos": 37188
+    },
+    {
+      "content": "下",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 36912,
+      "endPos": 36913
+    },
+    {
+      "content": " お.ろす, もと, しも, くだ.る, くだ.さる, -くだ.す, した, お.りる, さ.げる, くだ.り, さ.がる, くだ.す",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 37032,
+      "endPos": 37099
+    },
+    {
+      "content": " ゲ, カ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 37117,
+      "endPos": 37122
+    },
+    {
+      "content": " below, give, descend, inferior, down, low",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 37145,
+      "endPos": 37187
+    }
+  ],
+  [
+    {
+      "content": "<h2>気</h2>\n\t\t\t\t<img src=\"../img/stroke_order/474.png\" align=\"right\" alt=\"kanji stroke order for 気\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: いき</li>\n\t\t\t\t\t<li>on: キ, ケ</li>\n\t\t\t\t\t<li>meaning: spirit, mind, air, atmosphere, mood<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 38563,
+      "endPos": 38773
+    },
+    {
+      "content": "気",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 38567,
+      "endPos": 38568
+    },
+    {
+      "content": " いき",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 38687,
+      "endPos": 38690
+    },
+    {
+      "content": " キ, ケ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 38708,
+      "endPos": 38713
+    },
+    {
+      "content": " spirit, mind, air, atmosphere, mood",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 38736,
+      "endPos": 38772
+    }
+  ],
+  [
+    {
+      "content": "<h2>小</h2>\n\t\t\t\t<img src=\"../img/stroke_order/1330.png\" align=\"right\" alt=\"kanji stroke order for 小\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: ちい.さい, こ-, お-, さ-</li>\n\t\t\t\t\t<li>on: ショウ</li>\n\t\t\t\t\t<li>meaning: little, small<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 39926,
+      "endPos": 40129
+    },
+    {
+      "content": "小",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 39930,
+      "endPos": 39931
+    },
+    {
+      "content": " ちい.さい, こ-, お-, さ-",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 40051,
+      "endPos": 40069
+    },
+    {
+      "content": " ショウ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 40087,
+      "endPos": 40091
+    },
+    {
+      "content": " little, small",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 40114,
+      "endPos": 40128
+    }
+  ],
+  [
+    {
+      "content": "<h2>七</h2>\n\t\t\t\t<img src=\"../img/stroke_order/1151.png\" align=\"right\" alt=\"kanji stroke order for 七\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: なな, なな.つ, なの</li>\n\t\t\t\t\t<li>on: シチ</li>\n\t\t\t\t\t<li>meaning: seven<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 41288,
+      "endPos": 41477
+    },
+    {
+      "content": "七",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 41292,
+      "endPos": 41293
+    },
+    {
+      "content": " なな, なな.つ, なの",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 41413,
+      "endPos": 41426
+    },
+    {
+      "content": " シチ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 41444,
+      "endPos": 41447
+    },
+    {
+      "content": " seven",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 41470,
+      "endPos": 41476
+    }
+  ],
+  [
+    {
+      "content": "<h2>山</h2>\n\t\t\t\t<img src=\"../img/stroke_order/1053.png\" align=\"right\" alt=\"kanji stroke order for 山\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: やま</li>\n\t\t\t\t\t<li>on: サン, セン</li>\n\t\t\t\t\t<li>meaning: mountain<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 42499,
+      "endPos": 42685
+    },
+    {
+      "content": "山",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 42503,
+      "endPos": 42504
+    },
+    {
+      "content": " やま",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 42624,
+      "endPos": 42627
+    },
+    {
+      "content": " サン, セン",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 42645,
+      "endPos": 42652
+    },
+    {
+      "content": " mountain",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 42675,
+      "endPos": 42684
+    }
+  ],
+  [
+    {
+      "content": "<h2>女</h2>\n\t\t\t\t<img src=\"../img/stroke_order/1309.png\" align=\"right\" alt=\"kanji stroke order for 女\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: め, おんな</li>\n\t\t\t\t\t<li>on: ニョ, ニョウ, ジョ</li>\n\t\t\t\t\t<li>meaning: female, woman<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 43686,
+      "endPos": 43886
+    },
+    {
+      "content": "女",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 43690,
+      "endPos": 43691
+    },
+    {
+      "content": " め, おんな",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 43811,
+      "endPos": 43818
+    },
+    {
+      "content": " ニョ, ニョウ, ジョ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 43836,
+      "endPos": 43848
+    },
+    {
+      "content": " female, woman",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 43871,
+      "endPos": 43885
+    }
+  ],
+  [
+    {
+      "content": "<h2>百</h2>\n\t\t\t\t<img src=\"../img/stroke_order/2370.png\" align=\"right\" alt=\"kanji stroke order for 百\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: もも</li>\n\t\t\t\t\t<li>on: ヒャク, ビャク</li>\n\t\t\t\t\t<li>meaning: hundred<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 44931,
+      "endPos": 45118
+    },
+    {
+      "content": "百",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 44935,
+      "endPos": 44936
+    },
+    {
+      "content": " もも",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 45056,
+      "endPos": 45059
+    },
+    {
+      "content": " ヒャク, ビャク",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 45077,
+      "endPos": 45086
+    },
+    {
+      "content": " hundred",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 45109,
+      "endPos": 45117
+    }
+  ],
+  [
+    {
+      "content": "<h2>先</h2>\n\t\t\t\t<img src=\"../img/stroke_order/1576.png\" align=\"right\" alt=\"kanji stroke order for 先\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: さき, ま.ず</li>\n\t\t\t\t\t<li>on: セン</li>\n\t\t\t\t\t<li>meaning: previous, future, precedence, before, ahead<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 46243,
+      "endPos": 46465
+    },
+    {
+      "content": "先",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 46247,
+      "endPos": 46248
+    },
+    {
+      "content": " さき, ま.ず",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 46368,
+      "endPos": 46376
+    },
+    {
+      "content": " セン",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 46394,
+      "endPos": 46397
+    },
+    {
+      "content": " previous, future, precedence, before, ahead",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 46420,
+      "endPos": 46464
+    }
+  ],
+  [
+    {
+      "content": "<h2>名</h2>\n\t\t\t\t<img src=\"../img/stroke_order/2662.png\" align=\"right\" alt=\"kanji stroke order for 名\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: な, -な</li>\n\t\t\t\t\t<li>on: メイ, ミョウ</li>\n\t\t\t\t\t<li>meaning: name, noted, distinguished, reputation<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 47718,
+      "endPos": 47938
+    },
+    {
+      "content": "名",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 47722,
+      "endPos": 47723
+    },
+    {
+      "content": " な, -な",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 47843,
+      "endPos": 47849
+    },
+    {
+      "content": " メイ, ミョウ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 47867,
+      "endPos": 47875
+    },
+    {
+      "content": " name, noted, distinguished, reputation",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 47898,
+      "endPos": 47937
+    }
+  ],
+  [
+    {
+      "content": "<h2>川</h2>\n\t\t\t\t<img src=\"../img/stroke_order/1582.png\" align=\"right\" alt=\"kanji stroke order for 川\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: かわ</li>\n\t\t\t\t\t<li>on: セン</li>\n\t\t\t\t\t<li>meaning: stream, river, river or 3-stroke river radical (no. 47)<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 48907,
+      "endPos": 49136
+    },
+    {
+      "content": "川",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 48911,
+      "endPos": 48912
+    },
+    {
+      "content": " かわ",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 49032,
+      "endPos": 49035
+    },
+    {
+      "content": " セン",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 49053,
+      "endPos": 49056
+    },
+    {
+      "content": " stream, river, river or 3-stroke river radical (no. 47)",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 49079,
+      "endPos": 49135
+    }
+  ],
+  [
+    {
+      "content": "<h2>千</h2>\n\t\t\t\t<img src=\"../img/stroke_order/1577.png\" align=\"right\" alt=\"kanji stroke order for 千\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: ち</li>\n\t\t\t\t\t<li>on: セン</li>\n\t\t\t\t\t<li>meaning: thousand<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 50127,
+      "endPos": 50308
+    },
+    {
+      "content": "千",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 50131,
+      "endPos": 50132
+    },
+    {
+      "content": " ち",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 50252,
+      "endPos": 50254
+    },
+    {
+      "content": " セン",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 50272,
+      "endPos": 50275
+    },
+    {
+      "content": " thousand",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 50298,
+      "endPos": 50307
+    }
+  ],
+  [
+    {
+      "content": "<h2>水</h2>\n\t\t\t\t<img src=\"../img/stroke_order/1479.png\" align=\"right\" alt=\"kanji stroke order for 水\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: みず, みず-</li>\n\t\t\t\t\t<li>on: スイ</li>\n\t\t\t\t\t<li>meaning: water<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 51378,
+      "endPos": 51562
+    },
+    {
+      "content": "水",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 51382,
+      "endPos": 51383
+    },
+    {
+      "content": " みず, みず-",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 51503,
+      "endPos": 51511
+    },
+    {
+      "content": " スイ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 51529,
+      "endPos": 51532
+    },
+    {
+      "content": " water",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 51555,
+      "endPos": 51561
+    }
+  ],
+  [
+    {
+      "content": "<h2>国</h2>\n\t\t\t\t<img src=\"../img/stroke_order/927.png\" align=\"right\" alt=\"kanji stroke order for 国\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: くに</li>\n\t\t\t\t\t<li>on: コク</li>\n\t\t\t\t\t<li>meaning: country<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 52567,
+      "endPos": 52747
+    },
+    {
+      "content": "国",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 52571,
+      "endPos": 52572
+    },
+    {
+      "content": " くに",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 52691,
+      "endPos": 52694
+    },
+    {
+      "content": " コク",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 52712,
+      "endPos": 52715
+    },
+    {
+      "content": " country",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 52738,
+      "endPos": 52746
+    }
+  ],
+  [
+    {
+      "content": "<h2>長</h2>\n\t\t\t\t<img src=\"../img/stroke_order/1905.png\" align=\"right\" alt=\"kanji stroke order for 長\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: なが.い, おさ</li>\n\t\t\t\t\t<li>on: チョウ</li>\n\t\t\t\t\t<li>meaning: long, leader<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 53803,
+      "endPos": 53996
+    },
+    {
+      "content": "長",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 53807,
+      "endPos": 53808
+    },
+    {
+      "content": " なが.い, おさ",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 53928,
+      "endPos": 53937
+    },
+    {
+      "content": " チョウ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 53955,
+      "endPos": 53959
+    },
+    {
+      "content": " long, leader",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 53982,
+      "endPos": 53995
+    }
+  ],
+  [
+    {
+      "content": "<h2>男</h2>\n\t\t\t\t<img src=\"../img/stroke_order/1829.png\" align=\"right\" alt=\"kanji stroke order for 男\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: おとこ, お</li>\n\t\t\t\t\t<li>on: ダン, ナン</li>\n\t\t\t\t\t<li>meaning: male<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 55251,
+      "endPos": 55437
+    },
+    {
+      "content": "男",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 55255,
+      "endPos": 55256
+    },
+    {
+      "content": " おとこ, お",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 55376,
+      "endPos": 55383
+    },
+    {
+      "content": " ダン, ナン",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 55401,
+      "endPos": 55408
+    },
+    {
+      "content": " male",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 55431,
+      "endPos": 55436
+    }
+  ],
+  [
+    {
+      "content": "<h2>時</h2>\n\t\t\t\t<img src=\"../img/stroke_order/1128.png\" align=\"right\" alt=\"kanji stroke order for 時\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: とき, -どき</li>\n\t\t\t\t\t<li>on: ジ</li>\n\t\t\t\t\t<li>meaning: time, hour<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 56385,
+      "endPos": 56573
+    },
+    {
+      "content": "時",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 56389,
+      "endPos": 56390
+    },
+    {
+      "content": " とき, -どき",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 56510,
+      "endPos": 56518
+    },
+    {
+      "content": " ジ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 56536,
+      "endPos": 56538
+    },
+    {
+      "content": " time, hour",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 56561,
+      "endPos": 56572
+    }
+  ],
+  [
+    {
+      "content": "<h2>行</h2>\n\t\t\t\t<img src=\"../img/stroke_order/898.png\" align=\"right\" alt=\"kanji stroke order for 行\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: おこな.う, ゆ.く, おこ.なう, -ゆ.き, い.く, -ゆき, -い.き, -いき</li>\n\t\t\t\t\t<li>on: コウ, ギョウ, アン</li>\n\t\t\t\t\t<li>meaning: journey, going<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 57807,
+      "endPos": 58045
+    },
+    {
+      "content": "行",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 57811,
+      "endPos": 57812
+    },
+    {
+      "content": " おこな.う, ゆ.く, おこ.なう, -ゆ.き, い.く, -ゆき, -い.き, -いき",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 57931,
+      "endPos": 57976
+    },
+    {
+      "content": " コウ, ギョウ, アン",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 57994,
+      "endPos": 58006
+    },
+    {
+      "content": " journey, going",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 58029,
+      "endPos": 58044
+    }
+  ],
+  [
+    {
+      "content": "<h2>分</h2>\n\t\t\t\t<img src=\"../img/stroke_order/2456.png\" align=\"right\" alt=\"kanji stroke order for 分\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: わ.かつ, わ.ける, わ.かる, わ.かれる, わ.け</li>\n\t\t\t\t\t<li>on: ブ, フン, ブン</li>\n\t\t\t\t\t<li>meaning: chances, part, understand, 1%, share, duty, segment, degree, rate, shaku/100, one&#39;s lot, know, minute of time<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 59241,
+      "endPos": 59561
+    },
+    {
+      "content": "分",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 59245,
+      "endPos": 59246
+    },
+    {
+      "content": " わ.かつ, わ.ける, わ.かる, わ.かれる, わ.け",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 59366,
+      "endPos": 59395
+    },
+    {
+      "content": " ブ, フン, ブン",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 59413,
+      "endPos": 59423
+    },
+    {
+      "content": " chances, part, understand, 1%, share, duty, segment, degree, rate, shaku/100, one&#39;s lot, know, minute of time",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 59446,
+      "endPos": 59560
+    }
+  ],
+  [
+    {
+      "content": "<h2>後</h2>\n\t\t\t\t<img src=\"../img/stroke_order/821.png\" align=\"right\" alt=\"kanji stroke order for 後\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: のち, うしろ, うし.ろ, あと, おく.れる</li>\n\t\t\t\t\t<li>on: コウ, ゴ</li>\n\t\t\t\t\t<li>meaning: behind, later, back<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 60720,
+      "endPos": 60937
+    },
+    {
+      "content": "後",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 60724,
+      "endPos": 60725
+    },
+    {
+      "content": " のち, うしろ, うし.ろ, あと, おく.れる",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 60844,
+      "endPos": 60869
+    },
+    {
+      "content": " コウ, ゴ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 60887,
+      "endPos": 60893
+    },
+    {
+      "content": " behind, later, back",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 60916,
+      "endPos": 60936
+    }
+  ],
+  [
+    {
+      "content": "<h2>前</h2>\n\t\t\t\t<img src=\"../img/stroke_order/1614.png\" align=\"right\" alt=\"kanji stroke order for 前\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: まえ, -まえ</li>\n\t\t\t\t\t<li>on: ゼン</li>\n\t\t\t\t\t<li>meaning: in front, before<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 62193,
+      "endPos": 62388
+    },
+    {
+      "content": "前",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 62197,
+      "endPos": 62198
+    },
+    {
+      "content": " まえ, -まえ",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 62318,
+      "endPos": 62326
+    },
+    {
+      "content": " ゼン",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 62344,
+      "endPos": 62347
+    },
+    {
+      "content": " in front, before",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 62370,
+      "endPos": 62387
+    }
+  ],
+  [
+    {
+      "content": "<h2>間</h2>\n\t\t\t\t<img src=\"../img/stroke_order/430.png\" align=\"right\" alt=\"kanji stroke order for 間\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: あいだ, ま, あい</li>\n\t\t\t\t\t<li>on: カン, ケン</li>\n\t\t\t\t\t<li>meaning: interval, space<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 63514,
+      "endPos": 63714
+    },
+    {
+      "content": "間",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 63518,
+      "endPos": 63519
+    },
+    {
+      "content": " あいだ, ま, あい",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 63638,
+      "endPos": 63649
+    },
+    {
+      "content": " カン, ケン",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 63667,
+      "endPos": 63674
+    },
+    {
+      "content": " interval, space",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 63697,
+      "endPos": 63713
+    }
+  ],
+  [
+    {
+      "content": "<h2>東</h2>\n\t\t\t\t<img src=\"../img/stroke_order/2050.png\" align=\"right\" alt=\"kanji stroke order for 東\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: ひがし</li>\n\t\t\t\t\t<li>on: トウ</li>\n\t\t\t\t\t<li>meaning: east<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 65060,
+      "endPos": 65239
+    },
+    {
+      "content": "東",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 65064,
+      "endPos": 65065
+    },
+    {
+      "content": " ひがし",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 65185,
+      "endPos": 65189
+    },
+    {
+      "content": " トウ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 65207,
+      "endPos": 65210
+    },
+    {
+      "content": " east",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 65233,
+      "endPos": 65238
+    }
+  ],
+  [
+    {
+      "content": "<h2>今</h2>\n\t\t\t\t<img src=\"../img/stroke_order/943.png\" align=\"right\" alt=\"kanji stroke order for 今\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: いま</li>\n\t\t\t\t\t<li>on: コン, キン</li>\n\t\t\t\t\t<li>meaning: now<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 66351,
+      "endPos": 66531
+    },
+    {
+      "content": "今",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 66355,
+      "endPos": 66356
+    },
+    {
+      "content": " いま",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 66475,
+      "endPos": 66478
+    },
+    {
+      "content": " コン, キン",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 66496,
+      "endPos": 66503
+    },
+    {
+      "content": " now",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 66526,
+      "endPos": 66530
+    }
+  ],
+  [
+    {
+      "content": "<h2>高</h2>\n\t\t\t\t<img src=\"../img/stroke_order/912.png\" align=\"right\" alt=\"kanji stroke order for 高\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: たか.い, たか, -だか, たか.まる, たか.める</li>\n\t\t\t\t\t<li>on: コウ</li>\n\t\t\t\t\t<li>meaning: tall, high, expensive<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 67548,
+      "endPos": 67767
+    },
+    {
+      "content": "高",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 67552,
+      "endPos": 67553
+    },
+    {
+      "content": " たか.い, たか, -だか, たか.まる, たか.める",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 67672,
+      "endPos": 67700
+    },
+    {
+      "content": " コウ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 67718,
+      "endPos": 67721
+    },
+    {
+      "content": " tall, high, expensive",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 67744,
+      "endPos": 67766
+    }
+  ],
+  [
+    {
+      "content": "<h2>校</h2>\n\t\t\t\t<img src=\"../img/stroke_order/873.png\" align=\"right\" alt=\"kanji stroke order for 校\" />\n\t\t\t\t<ul>\n\t\t\t\t\t\n\t\t\t\t\t<li>on: コウ, キョウ</li>\n\t\t\t\t\t<li>meaning: exam, school, printing, proof, correction</li>\n\t\t\t\t\t\n\t\t\t\t\t<li>words:<table>\n\t\t\t\t\t\t<tr><th>Word</th><th>Reading</th><th>Meaning</th></tr>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<tr><td>学校</td><td>がっこう</td><td>school</td></tr>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<tr><td>高校</td><td>こうこう</td><td>senior high school</td></tr>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<tr><td>校長</td><td>こうちょう</td><td>principal, headmaster</td></tr>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<tr><td>高校生</td><td>こうこうせい</td><td>senior high school student</td></tr>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<tr><td>小学校</td><td>しょうがっこう</td><td>primary school, elementary school, grade school</td></tr>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<tr><td>中学校</td><td>ちゅうがっこう</td><td>junior high school, middle school, lower secondary school</td></tr>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<tr><td>登校</td><td>とうこう</td><td>attendance (at school), going to school</td></tr>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<tr><td>校舎</td><td>こうしゃ</td><td>school building</td></tr>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<tr><td>同校</td><td>どうこう</td><td>same school</td></tr>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<tr><td>専門学校</td><td>せんもんがっこう, せんもんガッコウ, せんもんガッコ</td><td>vocational school, technical school</td></tr>\n\t\t\t\t\t\t\n\t\t\t\t\t</table></li>\n\t\t\t\t\t\n\t\t\t\t</ul>\n\t\t\t\t<hr />\n                \n                \t<!-- ##### Search Result ##### -->\n\t\t\t<h2>土</h2>\n\t\t\t\t<img src=\"../img/stroke_order/2032.png\" align=\"right\" alt=\"kanji stroke order for 土\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: つち</li>\n\t\t\t\t\t<li>on: ド, ト</li>\n\t\t\t\t\t<li>meaning: soil, earth, ground, Turkey<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 68814,
+      "endPos": 70312
+    },
+    {
+      "content": "校",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 68818,
+      "endPos": 68819
+    },
+    {
+      "content": " つち",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 70234,
+      "endPos": 70237
+    },
+    {
+      "content": " ド, ト",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 70255,
+      "endPos": 70260
+    },
+    {
+      "content": " soil, earth, ground, Turkey",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 70283,
+      "endPos": 70311
+    }
+  ],
+  [
+    {
+      "content": "<h2>外</h2>\n\t\t\t\t<img src=\"../img/stroke_order/298.png\" align=\"right\" alt=\"kanji stroke order for 外\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: そと, ほか, はず.す, はず.れる, と-</li>\n\t\t\t\t\t<li>on: ガイ, ゲ</li>\n\t\t\t\t\t<li>meaning: outside<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 71594,
+      "endPos": 71798
+    },
+    {
+      "content": "外",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 71598,
+      "endPos": 71599
+    },
+    {
+      "content": " そと, ほか, はず.す, はず.れる, と-",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 71718,
+      "endPos": 71742
+    },
+    {
+      "content": " ガイ, ゲ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 71760,
+      "endPos": 71766
+    },
+    {
+      "content": " outside",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 71789,
+      "endPos": 71797
+    }
+  ],
+  [
+    {
+      "content": "<h2>木</h2>\n\t\t\t\t<img src=\"../img/stroke_order/2690.png\" align=\"right\" alt=\"kanji stroke order for 木\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: き, こ-</li>\n\t\t\t\t\t<li>on: ボク, モク</li>\n\t\t\t\t\t<li>meaning: tree, wood<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 72842,
+      "endPos": 73033
+    },
+    {
+      "content": "木",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 72846,
+      "endPos": 72847
+    },
+    {
+      "content": " き, こ-",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 72967,
+      "endPos": 72973
+    },
+    {
+      "content": " ボク, モク",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 72991,
+      "endPos": 72998
+    },
+    {
+      "content": " tree, wood",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 73021,
+      "endPos": 73032
+    }
+  ],
+  [
+    {
+      "content": "<h2>来</h2>\n\t\t\t\t<img src=\"../img/stroke_order/2798.png\" align=\"right\" alt=\"kanji stroke order for 来\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: きた.る, きた.す, き.たす, き.たる, き, こ, く.る</li>\n\t\t\t\t\t<li>on: タイ, ライ</li>\n\t\t\t\t\t<li>meaning: cause, next, come, become, due<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 74039,
+      "endPos": 74278
+    },
+    {
+      "content": "来",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 74043,
+      "endPos": 74044
+    },
+    {
+      "content": " きた.る, きた.す, き.たす, き.たる, き, こ, く.る",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 74164,
+      "endPos": 74198
+    },
+    {
+      "content": " タイ, ライ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 74216,
+      "endPos": 74223
+    },
+    {
+      "content": " cause, next, come, become, due",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 74246,
+      "endPos": 74277
+    }
+  ],
+  [
+    {
+      "content": "<h2>車</h2>\n\t\t\t\t<img src=\"../img/stroke_order/1182.png\" align=\"right\" alt=\"kanji stroke order for 車\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: くるま</li>\n\t\t\t\t\t<li>on: シャ</li>\n\t\t\t\t\t<li>meaning: car<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 75416,
+      "endPos": 75594
+    },
+    {
+      "content": "車",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 75420,
+      "endPos": 75421
+    },
+    {
+      "content": " くるま",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 75541,
+      "endPos": 75545
+    },
+    {
+      "content": " シャ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 75563,
+      "endPos": 75566
+    },
+    {
+      "content": " car",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 75589,
+      "endPos": 75593
+    }
+  ],
+  [
+    {
+      "content": "<h2>話</h2>\n\t\t\t\t<img src=\"../img/stroke_order/2949.png\" align=\"right\" alt=\"kanji stroke order for 話\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: はな.す, はなし</li>\n\t\t\t\t\t<li>on: ワ</li>\n\t\t\t\t\t<li>meaning: tale, talk<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 76634,
+      "endPos": 76824
+    },
+    {
+      "content": "話",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 76638,
+      "endPos": 76639
+    },
+    {
+      "content": " はな.す, はなし",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 76759,
+      "endPos": 76769
+    },
+    {
+      "content": " ワ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 76787,
+      "endPos": 76789
+    },
+    {
+      "content": " tale, talk",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 76812,
+      "endPos": 76823
+    }
+  ],
+  [
+    {
+      "content": "<h2>北</h2>\n\t\t\t\t<img src=\"../img/stroke_order/2582.png\" align=\"right\" alt=\"kanji stroke order for 北\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: きた</li>\n\t\t\t\t\t<li>on: ホク</li>\n\t\t\t\t\t<li>meaning: north<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 77905,
+      "endPos": 78084
+    },
+    {
+      "content": "北",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 77909,
+      "endPos": 77910
+    },
+    {
+      "content": " きた",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 78030,
+      "endPos": 78033
+    },
+    {
+      "content": " ホク",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 78051,
+      "endPos": 78054
+    },
+    {
+      "content": " north",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 78077,
+      "endPos": 78083
+    }
+  ],
+  [
+    {
+      "content": "<h2>午</h2>\n\t\t\t\t<img src=\"../img/stroke_order/817.png\" align=\"right\" alt=\"kanji stroke order for 午\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: うま</li>\n\t\t\t\t\t<li>on: ゴ</li>\n\t\t\t\t\t<li>meaning: noon, sign of the horse, 11AM-1PM, seventh sign of Chinese zodiac<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 79123,
+      "endPos": 79360
+    },
+    {
+      "content": "午",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 79127,
+      "endPos": 79128
+    },
+    {
+      "content": " うま",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 79247,
+      "endPos": 79250
+    },
+    {
+      "content": " ゴ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 79268,
+      "endPos": 79270
+    },
+    {
+      "content": " noon, sign of the horse, 11AM-1PM, seventh sign of Chinese zodiac",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 79293,
+      "endPos": 79359
+    }
+  ],
+  [
+    {
+      "content": "<h2>書</h2>\n\t\t\t\t<img src=\"../img/stroke_order/1303.png\" align=\"right\" alt=\"kanji stroke order for 書\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: か.く, -が.き, -がき</li>\n\t\t\t\t\t<li>on: ショ</li>\n\t\t\t\t\t<li>meaning: write<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 80361,
+      "endPos": 80552
+    },
+    {
+      "content": "書",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 80365,
+      "endPos": 80366
+    },
+    {
+      "content": " か.く, -が.き, -がき",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 80486,
+      "endPos": 80501
+    },
+    {
+      "content": " ショ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 80519,
+      "endPos": 80522
+    },
+    {
+      "content": " write",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 80545,
+      "endPos": 80551
+    }
+  ],
+  [
+    {
+      "content": "<h2>半</h2>\n\t\t\t\t<img src=\"../img/stroke_order/2286.png\" align=\"right\" alt=\"kanji stroke order for 半\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: なか.ば</li>\n\t\t\t\t\t<li>on: ハン</li>\n\t\t\t\t\t<li>meaning: part-, half, middle, odd number, semi-<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 81564,
+      "endPos": 81778
+    },
+    {
+      "content": "半",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 81568,
+      "endPos": 81569
+    },
+    {
+      "content": " なか.ば",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 81689,
+      "endPos": 81694
+    },
+    {
+      "content": " ハン",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 81712,
+      "endPos": 81715
+    },
+    {
+      "content": " part-, half, middle, odd number, semi-",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 81738,
+      "endPos": 81777
+    }
+  ],
+  [
+    {
+      "content": "<h2>白</h2>\n\t\t\t\t<img src=\"../img/stroke_order/2244.png\" align=\"right\" alt=\"kanji stroke order for 白\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: しろ, しら-, しろ.い</li>\n\t\t\t\t\t<li>on: ハク, ビャク</li>\n\t\t\t\t\t<li>meaning: white<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 82767,
+      "endPos": 82962
+    },
+    {
+      "content": "白",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 82771,
+      "endPos": 82772
+    },
+    {
+      "content": " しろ, しら-, しろ.い",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 82892,
+      "endPos": 82906
+    },
+    {
+      "content": " ハク, ビャク",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 82924,
+      "endPos": 82932
+    },
+    {
+      "content": " white",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 82955,
+      "endPos": 82961
+    }
+  ],
+  [
+    {
+      "content": "<h2>西</h2>\n\t\t\t\t<img src=\"../img/stroke_order/1534.png\" align=\"right\" alt=\"kanji stroke order for 西\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: にし</li>\n\t\t\t\t\t<li>on: ス, セイ, サイ</li>\n\t\t\t\t\t<li>meaning: Spain, west<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 84005,
+      "endPos": 84197
+    },
+    {
+      "content": "西",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 84009,
+      "endPos": 84010
+    },
+    {
+      "content": " にし",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 84130,
+      "endPos": 84133
+    },
+    {
+      "content": " ス, セイ, サイ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 84151,
+      "endPos": 84161
+    },
+    {
+      "content": " Spain, west",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 84184,
+      "endPos": 84196
+    }
+  ],
+  [
+    {
+      "content": "<h2>電</h2>\n\t\t\t\t<img src=\"../img/stroke_order/2011.png\" align=\"right\" alt=\"kanji stroke order for 電\" />\n\t\t\t\t<ul>\n\t\t\t\t\t\n\t\t\t\t\t<li>on: デン</li>\n\t\t\t\t\t<li>meaning: electricity</li>\n\t\t\t\t\t\n\t\t\t\t\t<li>words:<table>\n\t\t\t\t\t\t<tr><th>Word</th><th>Reading</th><th>Meaning</th></tr>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<tr><td>電話</td><td>でんわ</td><td>telephone</td></tr>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<tr><td>電気</td><td>でんき</td><td>electricity; (electric) light</td></tr>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<tr><td>電力</td><td>でんりょく</td><td>electric power</td></tr>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<tr><td>電子</td><td>でんし</td><td>electron; (esp. as a prefix) electronic, electronics</td></tr>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<tr><td>電車</td><td>でんしゃ</td><td>(electric) train</td></tr>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<tr><td>家電</td><td>かでん</td><td>consumer electronics</td></tr>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<tr><td>電機</td><td>でんき</td><td>electrical machinery, appliances</td></tr>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<tr><td>電波</td><td>でんぱ</td><td>electro-magnetic wave, radio wave; nonsense</td></tr>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<tr><td>発電</td><td>はつでん</td><td>generation (e.g. power)</td></tr>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<tr><td>発電所</td><td>はつでんしょ</td><td>power plant, power station</td></tr>\n\t\t\t\t\t\t\n\t\t\t\t\t</table></li>\n\t\t\t\t\t\n\t\t\t\t</ul>\n\t\t\t\t<hr />\n                \n                \t<!-- ##### Search Result ##### -->\n\t\t\t<h2>天</h2>\n\t\t\t\t<img src=\"../img/stroke_order/1997.png\" align=\"right\" alt=\"kanji stroke order for 天\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: あまつ, あめ, あま-</li>\n\t\t\t\t\t<li>on: テン</li>\n\t\t\t\t\t<li>meaning: heavens, sky, imperial<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 85280,
+      "endPos": 86697
+    },
+    {
+      "content": "電",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 85284,
+      "endPos": 85285
+    },
+    {
+      "content": " あまつ, あめ, あま-",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 86616,
+      "endPos": 86629
+    },
+    {
+      "content": " テン",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 86647,
+      "endPos": 86650
+    },
+    {
+      "content": " heavens, sky, imperial",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 86673,
+      "endPos": 86696
+    }
+  ],
+  [
+    {
+      "content": "<h2>語</h2>\n\t\t\t\t<img src=\"../img/stroke_order/828.png\" align=\"right\" alt=\"kanji stroke order for 語\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: かた.らう, かた.る</li>\n\t\t\t\t\t<li>on: ゴ</li>\n\t\t\t\t\t<li>meaning: language, word, speech<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 87922,
+      "endPos": 88125
+    },
+    {
+      "content": "語",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 87926,
+      "endPos": 87927
+    },
+    {
+      "content": " かた.らう, かた.る",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 88046,
+      "endPos": 88058
+    },
+    {
+      "content": " ゴ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 88076,
+      "endPos": 88078
+    },
+    {
+      "content": " language, word, speech",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 88101,
+      "endPos": 88124
+    }
+  ],
+  [
+    {
+      "content": "<h2>聞</h2>\n\t\t\t\t<img src=\"../img/stroke_order/2469.png\" align=\"right\" alt=\"kanji stroke order for 聞\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: き.く, き.こえる</li>\n\t\t\t\t\t<li>on: モン, ブン</li>\n\t\t\t\t\t<li>meaning: ask, listen, hear<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 89190,
+      "endPos": 89393
+    },
+    {
+      "content": "聞",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 89194,
+      "endPos": 89195
+    },
+    {
+      "content": " き.く, き.こえる",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 89315,
+      "endPos": 89326
+    },
+    {
+      "content": " モン, ブン",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 89344,
+      "endPos": 89351
+    },
+    {
+      "content": " ask, listen, hear",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 89374,
+      "endPos": 89392
+    }
+  ],
+  [
+    {
+      "content": "<h2>食</h2>\n\t\t\t\t<img src=\"../img/stroke_order/1419.png\" align=\"right\" alt=\"kanji stroke order for 食\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: く.う, く.らう, た.べる, は.む</li>\n\t\t\t\t\t<li>on: ショク, ジキ</li>\n\t\t\t\t\t<li>meaning: eat, food<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 90554,
+      "endPos": 90760
+    },
+    {
+      "content": "食",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 90558,
+      "endPos": 90559
+    },
+    {
+      "content": " く.う, く.らう, た.べる, は.む",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 90679,
+      "endPos": 90700
+    },
+    {
+      "content": " ショク, ジキ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 90718,
+      "endPos": 90726
+    },
+    {
+      "content": " eat, food",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 90749,
+      "endPos": 90759
+    }
+  ],
+  [
+    {
+      "content": "<h2>何</h2>\n\t\t\t\t<img src=\"../img/stroke_order/219.png\" align=\"right\" alt=\"kanji stroke order for 何\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: なに-, なん-, なに, なん</li>\n\t\t\t\t\t<li>on: カ</li>\n\t\t\t\t\t<li>meaning: what<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 91852,
+      "endPos": 92042
+    },
+    {
+      "content": "何",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 91856,
+      "endPos": 91857
+    },
+    {
+      "content": " なに-, なん-, なに, なん",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 91976,
+      "endPos": 91993
+    },
+    {
+      "content": " カ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 92011,
+      "endPos": 92013
+    },
+    {
+      "content": " what",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 92036,
+      "endPos": 92041
+    }
+  ],
+  [
+    {
+      "content": "<h2>南</h2>\n\t\t\t\t<img src=\"../img/stroke_order/2146.png\" align=\"right\" alt=\"kanji stroke order for 南\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: みなみ</li>\n\t\t\t\t\t<li>on: ナン, ナ</li>\n\t\t\t\t\t<li>meaning: south<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 93245,
+      "endPos": 93428
+    },
+    {
+      "content": "南",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 93249,
+      "endPos": 93250
+    },
+    {
+      "content": " みなみ",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 93370,
+      "endPos": 93374
+    },
+    {
+      "content": " ナン, ナ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 93392,
+      "endPos": 93398
+    },
+    {
+      "content": " south",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 93421,
+      "endPos": 93427
+    }
+  ],
+  [
+    {
+      "content": "<h2>火</h2>\n\t\t\t\t<img src=\"../img/stroke_order/236.png\" align=\"right\" alt=\"kanji stroke order for 火\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: ひ, -び, ほ-</li>\n\t\t\t\t\t<li>on: カ</li>\n\t\t\t\t\t<li>meaning: fire<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 94387,
+      "endPos": 94570
+    },
+    {
+      "content": "火",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 94391,
+      "endPos": 94392
+    },
+    {
+      "content": " ひ, -び, ほ-",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 94511,
+      "endPos": 94521
+    },
+    {
+      "content": " カ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 94539,
+      "endPos": 94541
+    },
+    {
+      "content": " fire",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 94564,
+      "endPos": 94569
+    }
+  ],
+  [
+    {
+      "content": "<h2>右</h2>\n\t\t\t\t<img src=\"../img/stroke_order/100.png\" align=\"right\" alt=\"kanji stroke order for 右\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: みぎ</li>\n\t\t\t\t\t<li>on: ウ, ユウ</li>\n\t\t\t\t\t<li>meaning: right<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 95510,
+      "endPos": 95691
+    },
+    {
+      "content": "右",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 95514,
+      "endPos": 95515
+    },
+    {
+      "content": " みぎ",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 95634,
+      "endPos": 95637
+    },
+    {
+      "content": " ウ, ユウ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 95655,
+      "endPos": 95661
+    },
+    {
+      "content": " right",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 95684,
+      "endPos": 95690
+    }
+  ],
+  [
+    {
+      "content": "<h2>万</h2>\n\t\t\t\t<img src=\"../img/stroke_order/2630.png\" align=\"right\" alt=\"kanji stroke order for 万\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: よろず</li>\n\t\t\t\t\t<li>on: マン, バン</li>\n\t\t\t\t\t<li>meaning: ten thousand, 10,000<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 96769,
+      "endPos": 96968
+    },
+    {
+      "content": "万",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 96773,
+      "endPos": 96774
+    },
+    {
+      "content": " よろず",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 96894,
+      "endPos": 96898
+    },
+    {
+      "content": " マン, バン",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 96916,
+      "endPos": 96923
+    },
+    {
+      "content": " ten thousand, 10,000",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 96946,
+      "endPos": 96967
+    }
+  ],
+  [
+    {
+      "content": "<h2>左</h2>\n\t\t\t\t<img src=\"../img/stroke_order/964.png\" align=\"right\" alt=\"kanji stroke order for 左\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: ひだり</li>\n\t\t\t\t\t<li>on: サ, シャ</li>\n\t\t\t\t\t<li>meaning: left<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 98317,
+      "endPos": 98498
+    },
+    {
+      "content": "左",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 98321,
+      "endPos": 98322
+    },
+    {
+      "content": " ひだり",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 98441,
+      "endPos": 98445
+    },
+    {
+      "content": " サ, シャ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 98463,
+      "endPos": 98469
+    },
+    {
+      "content": " left",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 98492,
+      "endPos": 98497
+    }
+  ],
+  [
+    {
+      "content": "<h2>休</h2>\n\t\t\t\t<img src=\"../img/stroke_order/527.png\" align=\"right\" alt=\"kanji stroke order for 休\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: やす.む, やす.まる, やす.める</li>\n\t\t\t\t\t<li>on: キュウ</li>\n\t\t\t\t\t<li>meaning: rest, day off, retire, sleep<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 99602,
+      "endPos": 99820
+    },
+    {
+      "content": "休",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 99606,
+      "endPos": 99607
+    },
+    {
+      "content": " やす.む, やす.まる, やす.める",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 99726,
+      "endPos": 99745
+    },
+    {
+      "content": " キュウ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 99763,
+      "endPos": 99767
+    },
+    {
+      "content": " rest, day off, retire, sleep",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 99790,
+      "endPos": 99819
+    }
+  ],
+  [
+    {
+      "content": "<h2>毎</h2>\n\t\t\t\t<img src=\"../img/stroke_order/2610.png\" align=\"right\" alt=\"kanji stroke order for 毎\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: ごと, -ごと.に</li>\n\t\t\t\t\t<li>on: マイ</li>\n\t\t\t\t\t<li>meaning: every<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 100956,
+      "endPos": 101142
+    },
+    {
+      "content": "毎",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 100960,
+      "endPos": 100961
+    },
+    {
+      "content": " ごと, -ごと.に",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 101081,
+      "endPos": 101091
+    },
+    {
+      "content": " マイ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 101109,
+      "endPos": 101112
+    },
+    {
+      "content": " every",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 101135,
+      "endPos": 101141
+    }
+  ],
+  [
+    {
+      "content": "<h2>母</h2>\n\t\t\t\t<img src=\"../img/stroke_order/2520.png\" align=\"right\" alt=\"kanji stroke order for 母\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: はは, も</li>\n\t\t\t\t\t<li>on: ボ</li>\n\t\t\t\t\t<li>meaning: mama, mother<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 102152,
+      "endPos": 102340
+    },
+    {
+      "content": "母",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 102156,
+      "endPos": 102157
+    },
+    {
+      "content": " はは, も",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 102277,
+      "endPos": 102283
+    },
+    {
+      "content": " ボ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 102301,
+      "endPos": 102303
+    },
+    {
+      "content": " mama, mother",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 102326,
+      "endPos": 102339
+    }
+  ],
+  [
+    {
+      "content": "<h2>読</h2>\n\t\t\t\t<img src=\"../img/stroke_order/2109.png\" align=\"right\" alt=\"kanji stroke order for 読\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: -よ.み, よ.む</li>\n\t\t\t\t\t<li>on: トウ, ドク, トク</li>\n\t\t\t\t\t<li>meaning: read<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 103352,
+      "endPos": 103545
+    },
+    {
+      "content": "読",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 103356,
+      "endPos": 103357
+    },
+    {
+      "content": " -よ.み, よ.む",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 103477,
+      "endPos": 103487
+    },
+    {
+      "content": " トウ, ドク, トク",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 103505,
+      "endPos": 103516
+    },
+    {
+      "content": " read",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 103539,
+      "endPos": 103544
+    }
+  ],
+  [
+    {
+      "content": "<h2>友</h2>\n\t\t\t\t<img src=\"../img/stroke_order/2733.png\" align=\"right\" alt=\"kanji stroke order for 友\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: とも</li>\n\t\t\t\t\t<li>on: ユウ</li>\n\t\t\t\t\t<li>meaning: friend<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 104499,
+      "endPos": 104679
+    },
+    {
+      "content": "友",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 104503,
+      "endPos": 104504
+    },
+    {
+      "content": " とも",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 104624,
+      "endPos": 104627
+    },
+    {
+      "content": " ユウ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 104645,
+      "endPos": 104648
+    },
+    {
+      "content": " friend",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 104671,
+      "endPos": 104678
+    }
+  ],
+  [
+    {
+      "content": "<h2>父</h2>\n\t\t\t\t<img src=\"../img/stroke_order/2417.png\" align=\"right\" alt=\"kanji stroke order for 父\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: ちち</li>\n\t\t\t\t\t<li>on: フ</li>\n\t\t\t\t\t<li>meaning: father<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 105670,
+      "endPos": 105849
+    },
+    {
+      "content": "父",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 105674,
+      "endPos": 105675
+    },
+    {
+      "content": " ちち",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 105795,
+      "endPos": 105798
+    },
+    {
+      "content": " フ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 105816,
+      "endPos": 105818
+    },
+    {
+      "content": " father",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 105841,
+      "endPos": 105848
+    }
+  ],
+  [
+    {
+      "content": "<h2>雨</h2>\n\t\t\t\t<img src=\"../img/stroke_order/105.png\" align=\"right\" alt=\"kanji stroke order for 雨\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: あめ, あま-, -さめ</li>\n\t\t\t\t\t<li>on: ウ</li>\n\t\t\t\t\t<li>meaning: rain<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 106892,
+      "endPos": 107078
+    },
+    {
+      "content": "雨",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 106896,
+      "endPos": 106897
+    },
+    {
+      "content": " あめ, あま-, -さめ",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 107016,
+      "endPos": 107029
+    },
+    {
+      "content": " ウ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 107047,
+      "endPos": 107049
+    },
+    {
+      "content": " rain",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 107072,
+      "endPos": 107077
+    }
+  ],
+  [
+    {
+      "content": "<h2>立</h2>\n\t\t\t\t<img src=\"../img/stroke_order/2829.png\" align=\"right\" alt=\"kanji stroke order for 立\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: -だ.てる, た.つ, -た.つ, た.ち-, た.てる, -た.てる, た.て-, たて-, -た.て, -だ.て</li>\n\t\t\t\t\t<li>on: リュウ, リットル, リツ</li>\n\t\t\t\t\t<li>meaning: stand up<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 108095,
+      "endPos": 108344
+    },
+    {
+      "content": "立",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 108099,
+      "endPos": 108100
+    },
+    {
+      "content": " -だ.てる, た.つ, -た.つ, た.ち-, た.てる, -た.てる, た.て-, たて-, -た.て, -だ.て",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 108220,
+      "endPos": 108279
+    },
+    {
+      "content": " リュウ, リットル, リツ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 108297,
+      "endPos": 108311
+    },
+    {
+      "content": " stand up",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 108334,
+      "endPos": 108343
+    }
+  ],
+  [
+    {
+      "content": "<h2>手</h2>\n\t\t\t\t<img src=\"../img/stroke_order/1202.png\" align=\"right\" alt=\"kanji stroke order for 手\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: て-, -て, た-, て</li>\n\t\t\t\t\t<li>on: シュ, ズ</li>\n\t\t\t\t\t<li>meaning: hand<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 109457,
+      "endPos": 109649
+    },
+    {
+      "content": "手",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 109461,
+      "endPos": 109462
+    },
+    {
+      "content": " て-, -て, た-, て",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 109582,
+      "endPos": 109596
+    },
+    {
+      "content": " シュ, ズ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 109614,
+      "endPos": 109620
+    },
+    {
+      "content": " hand",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 109643,
+      "endPos": 109648
+    }
+  ],
+  [
+    {
+      "content": "<h2>力</h2>\n\t\t\t\t<img src=\"../img/stroke_order/2867.png\" align=\"right\" alt=\"kanji stroke order for 力\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: ちから</li>\n\t\t\t\t\t<li>on: リョク, リキ, リイ</li>\n\t\t\t\t\t<li>meaning: power, strong, strain, bear up, exert<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 110972,
+      "endPos": 111193
+    },
+    {
+      "content": "力",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 110976,
+      "endPos": 110977
+    },
+    {
+      "content": " ちから",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 111097,
+      "endPos": 111101
+    },
+    {
+      "content": " リョク, リキ, リイ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 111119,
+      "endPos": 111131
+    },
+    {
+      "content": " power, strong, strain, bear up, exert",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 111154,
+      "endPos": 111192
+    }
+  ],
+  [
+    {
+      "content": "<h2>目</h2>\n\t\t\t\t<img src=\"../img/stroke_order/2692.png\" align=\"right\" alt=\"kanji stroke order for 目\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: め, -め, ま-</li>\n\t\t\t\t\t<li>on: モク, ボク</li>\n\t\t\t\t\t<li>meaning: class, experience, care, look, favor, insight, eye<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 112476,
+      "endPos": 112711
+    },
+    {
+      "content": "目",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 112480,
+      "endPos": 112481
+    },
+    {
+      "content": " め, -め, ま-",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 112601,
+      "endPos": 112611
+    },
+    {
+      "content": " モク, ボク",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 112629,
+      "endPos": 112636
+    },
+    {
+      "content": " class, experience, care, look, favor, insight, eye",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 112659,
+      "endPos": 112710
+    }
+  ],
+  [
+    {
+      "content": "<h2>田</h2>\n\t\t\t\t<img src=\"../img/stroke_order/2010.png\" align=\"right\" alt=\"kanji stroke order for 田\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: た</li>\n\t\t\t\t\t<li>on: デン</li>\n\t\t\t\t\t<li>meaning: rice field, rice paddy<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 113935,
+      "endPos": 114130
+    },
+    {
+      "content": "田",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 113939,
+      "endPos": 113940
+    },
+    {
+      "content": " た",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 114060,
+      "endPos": 114062
+    },
+    {
+      "content": " デン",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 114080,
+      "endPos": 114083
+    },
+    {
+      "content": " rice field, rice paddy",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 114106,
+      "endPos": 114129
+    }
+  ],
+  [
+    {
+      "content": "<h2>正</h2>\n\t\t\t\t<img src=\"../img/stroke_order/1525.png\" align=\"right\" alt=\"kanji stroke order for 正\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: ただ.す, まさ, まさ.に, ただ.しい</li>\n\t\t\t\t\t<li>on: ショウ, セイ</li>\n\t\t\t\t\t<li>meaning: justice, righteous, correct, 10**40<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 115220,
+      "endPos": 115453
+    },
+    {
+      "content": "正",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 115224,
+      "endPos": 115225
+    },
+    {
+      "content": " ただ.す, まさ, まさ.に, ただ.しい",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 115345,
+      "endPos": 115367
+    },
+    {
+      "content": " ショウ, セイ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 115385,
+      "endPos": 115393
+    },
+    {
+      "content": " justice, righteous, correct, 10**40",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 115416,
+      "endPos": 115452
+    }
+  ],
+  [
+    {
+      "content": "<h2>文</h2>\n\t\t\t\t<img src=\"../img/stroke_order/2468.png\" align=\"right\" alt=\"kanji stroke order for 文\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: ふみ, あや</li>\n\t\t\t\t\t<li>on: ブン, モン</li>\n\t\t\t\t\t<li>meaning: decoration, figures, sentence, plan, literature, literary radical (no. 67), style, art<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 116636,
+      "endPos": 116904
+    },
+    {
+      "content": "文",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 116640,
+      "endPos": 116641
+    },
+    {
+      "content": " ふみ, あや",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 116761,
+      "endPos": 116768
+    },
+    {
+      "content": " ブン, モン",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 116786,
+      "endPos": 116793
+    },
+    {
+      "content": " decoration, figures, sentence, plan, literature, literary radical (no. 67), style, art",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 116816,
+      "endPos": 116903
+    }
+  ],
+  [
+    {
+      "content": "<h2>会</h2>\n\t\t\t\t<img src=\"../img/stroke_order/269.png\" align=\"right\" alt=\"kanji stroke order for 会\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: あ.わせる, あつ.まる, あ.う</li>\n\t\t\t\t\t<li>on: エ, カイ</li>\n\t\t\t\t\t<li>meaning: association, meeting, interview, meet, join, party<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 118090,
+      "endPos": 118331
+    },
+    {
+      "content": "会",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 118094,
+      "endPos": 118095
+    },
+    {
+      "content": " あ.わせる, あつ.まる, あ.う",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 118214,
+      "endPos": 118232
+    },
+    {
+      "content": " エ, カイ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 118250,
+      "endPos": 118256
+    },
+    {
+      "content": " association, meeting, interview, meet, join, party",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 118279,
+      "endPos": 118330
+    }
+  ],
+  [
+    {
+      "content": "<h2>同</h2>\n\t\t\t\t<img src=\"../img/stroke_order/2085.png\" align=\"right\" alt=\"kanji stroke order for 同\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: おな.じ</li>\n\t\t\t\t\t<li>on: ドウ</li>\n\t\t\t\t\t<li>meaning: same, agree, equal<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 119498,
+      "endPos": 119692
+    },
+    {
+      "content": "同",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 119502,
+      "endPos": 119503
+    },
+    {
+      "content": " おな.じ",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 119623,
+      "endPos": 119628
+    },
+    {
+      "content": " ドウ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 119646,
+      "endPos": 119649
+    },
+    {
+      "content": " same, agree, equal",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 119672,
+      "endPos": 119691
+    }
+  ],
+  [
+    {
+      "content": "<h2>自</h2>\n\t\t\t\t<img src=\"../img/stroke_order/1139.png\" align=\"right\" alt=\"kanji stroke order for 自\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: おの.ずと, みずか.ら, おの.ずから</li>\n\t\t\t\t\t<li>on: シ, ジ</li>\n\t\t\t\t\t<li>meaning: oneself<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 120899,
+      "endPos": 121100
+    },
+    {
+      "content": "自",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 120903,
+      "endPos": 120904
+    },
+    {
+      "content": " おの.ずと, みずか.ら, おの.ずから",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 121024,
+      "endPos": 121045
+    },
+    {
+      "content": " シ, ジ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 121063,
+      "endPos": 121068
+    },
+    {
+      "content": " oneself",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 121091,
+      "endPos": 121099
+    }
+  ],
+  [
+    {
+      "content": "<h2>社</h2>\n\t\t\t\t<img src=\"../img/stroke_order/1178.png\" align=\"right\" alt=\"kanji stroke order for 社\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: やしろ</li>\n\t\t\t\t\t<li>on: シャ</li>\n\t\t\t\t\t<li>meaning: company, firm, office, association, shrine<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 122214,
+      "endPos": 122431
+    },
+    {
+      "content": "社",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 122218,
+      "endPos": 122219
+    },
+    {
+      "content": " やしろ",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 122339,
+      "endPos": 122343
+    },
+    {
+      "content": " シャ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 122361,
+      "endPos": 122364
+    },
+    {
+      "content": " company, firm, office, association, shrine",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 122387,
+      "endPos": 122430
+    }
+  ],
+  [
+    {
+      "content": "<h2>地</h2>\n\t\t\t\t<img src=\"../img/stroke_order/1833.png\" align=\"right\" alt=\"kanji stroke order for 地\" />\n\t\t\t\t<ul>\n\t\t\t\t\t\n\t\t\t\t\t<li>on: チ, ジ</li>\n\t\t\t\t\t<li>meaning: ground, earth</li>\n\t\t\t\t\t\n\t\t\t\t\t<li>words:<table>\n\t\t\t\t\t\t<tr><th>Word</th><th>Reading</th><th>Meaning</th></tr>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<tr><td>地</td><td>ち</td><td>earth, ground, land, soil; place; territory; bottom (of a package, book, etc.)</td></tr>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<tr><td>現地</td><td>げんち</td><td>actual place, local</td></tr>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<tr><td>地域</td><td>ちいき</td><td>area, region</td></tr>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<tr><td>地球</td><td>ちきゅう</td><td>the earth</td></tr>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<tr><td>地区</td><td>ちく</td><td>district, section, sector</td></tr>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<tr><td>地元</td><td>じもと</td><td>home area, home town; local</td></tr>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<tr><td>地方</td><td>ちほう, じかた</td><td>area, locality, district, region, province; countryside, rural area; coast (esp. as seen from the water); person singing ballads in Noh, person in charge of music in a Japanese dance performance</td></tr>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<tr><td>土地</td><td>とち</td><td>plot of land, lot, soil</td></tr>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<tr><td>基地</td><td>きち</td><td>base</td></tr>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<tr><td>地検</td><td>ちけん</td><td>District Public Prosecutor&#39;s Office</td></tr>\n\t\t\t\t\t\t\n\t\t\t\t\t</table></li>\n\t\t\t\t\t\n\t\t\t\t</ul>\n\t\t\t\t<hr />\n                \n                \t<!-- ##### Search Result ##### -->\n\t\t\t<h2>方</h2>\n\t\t\t\t<img src=\"../img/stroke_order/2537.png\" align=\"right\" alt=\"kanji stroke order for 方\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: かた, -かた, -がた</li>\n\t\t\t\t\t<li>on: ホウ</li>\n\t\t\t\t\t<li>meaning: direction, person, alternative<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 123630,
+      "endPos": 125217
+    },
+    {
+      "content": "地",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 123634,
+      "endPos": 123635
+    },
+    {
+      "content": " かた, -かた, -がた",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 125128,
+      "endPos": 125141
+    },
+    {
+      "content": " ホウ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 125159,
+      "endPos": 125162
+    },
+    {
+      "content": " direction, person, alternative",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 125185,
+      "endPos": 125216
+    }
+  ],
+  [
+    {
+      "content": "<h2>新</h2>\n\t\t\t\t<img src=\"../img/stroke_order/1433.png\" align=\"right\" alt=\"kanji stroke order for 新\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: あら.た, あら-, にい-, あたら.しい</li>\n\t\t\t\t\t<li>on: シン</li>\n\t\t\t\t\t<li>meaning: new<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 126843,
+      "endPos": 127040
+    },
+    {
+      "content": "新",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 126847,
+      "endPos": 126848
+    },
+    {
+      "content": " あら.た, あら-, にい-, あたら.しい",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 126968,
+      "endPos": 126991
+    },
+    {
+      "content": " シン",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 127009,
+      "endPos": 127012
+    },
+    {
+      "content": " new",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 127035,
+      "endPos": 127039
+    }
+  ],
+  [
+    {
+      "content": "<h2>場</h2>\n\t\t\t\t<img src=\"../img/stroke_order/1392.png\" align=\"right\" alt=\"kanji stroke order for 場\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: ば</li>\n\t\t\t\t\t<li>on: ジョウ, チョウ</li>\n\t\t\t\t\t<li>meaning: location, place<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 128130,
+      "endPos": 128324
+    },
+    {
+      "content": "場",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 128134,
+      "endPos": 128135
+    },
+    {
+      "content": " ば",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 128255,
+      "endPos": 128257
+    },
+    {
+      "content": " ジョウ, チョウ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 128275,
+      "endPos": 128284
+    },
+    {
+      "content": " location, place",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 128307,
+      "endPos": 128323
+    }
+  ],
+  [
+    {
+      "content": "<h2>口</h2>\n\t\t\t\t<img src=\"../img/stroke_order/845.png\" align=\"right\" alt=\"kanji stroke order for 口\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: くち</li>\n\t\t\t\t\t<li>on: コウ, ク</li>\n\t\t\t\t\t<li>meaning: mouth<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 129446,
+      "endPos": 129627
+    },
+    {
+      "content": "口",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 129450,
+      "endPos": 129451
+    },
+    {
+      "content": " くち",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 129570,
+      "endPos": 129573
+    },
+    {
+      "content": " コウ, ク",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 129591,
+      "endPos": 129597
+    },
+    {
+      "content": " mouth",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 129620,
+      "endPos": 129626
+    }
+  ],
+  [
+    {
+      "content": "<h2>町</h2>\n\t\t\t\t<img src=\"../img/stroke_order/1894.png\" align=\"right\" alt=\"kanji stroke order for 町\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: まち</li>\n\t\t\t\t\t<li>on: チョウ</li>\n\t\t\t\t\t<li>meaning: town, village, block, street<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 131108,
+      "endPos": 131311
+    },
+    {
+      "content": "町",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 131112,
+      "endPos": 131113
+    },
+    {
+      "content": " まち",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 131233,
+      "endPos": 131236
+    },
+    {
+      "content": " チョウ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 131254,
+      "endPos": 131258
+    },
+    {
+      "content": " town, village, block, street",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 131281,
+      "endPos": 131310
+    }
+  ],
+  [
+    {
+      "content": "<h2>明</h2>\n\t\t\t\t<img src=\"../img/stroke_order/2664.png\" align=\"right\" alt=\"kanji stroke order for 明\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: あき.らか, あ.く, -あ.け, あ.ける, あ.くる, あ.かす, あ.かり, あか.るい, あか.るむ, あか.らむ</li>\n\t\t\t\t\t<li>on: ミョウ, ミン, メイ</li>\n\t\t\t\t\t<li>meaning: bright, light<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 132512,
+      "endPos": 132767
+    },
+    {
+      "content": "明",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 132516,
+      "endPos": 132517
+    },
+    {
+      "content": " あき.らか, あ.く, -あ.け, あ.ける, あ.くる, あ.かす, あ.かり, あか.るい, あか.るむ, あか.らむ",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 132637,
+      "endPos": 132699
+    },
+    {
+      "content": " ミョウ, ミン, メイ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 132717,
+      "endPos": 132729
+    },
+    {
+      "content": " bright, light",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 132752,
+      "endPos": 132766
+    }
+  ],
+  [
+    {
+      "content": "<h2>京</h2>\n\t\t\t\t<img src=\"../img/stroke_order/564.png\" align=\"right\" alt=\"kanji stroke order for 京\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: みやこ</li>\n\t\t\t\t\t<li>on: キョウ, ケイ, キン</li>\n\t\t\t\t\t<li>meaning: capital, 10**16<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 134052,
+      "endPos": 134250
+    },
+    {
+      "content": "京",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 134056,
+      "endPos": 134057
+    },
+    {
+      "content": " みやこ",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 134176,
+      "endPos": 134180
+    },
+    {
+      "content": " キョウ, ケイ, キン",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 134198,
+      "endPos": 134210
+    },
+    {
+      "content": " capital, 10**16",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 134233,
+      "endPos": 134249
+    }
+  ],
+  [
+    {
+      "content": "<h2>空</h2>\n\t\t\t\t<img src=\"../img/stroke_order/649.png\" align=\"right\" alt=\"kanji stroke order for 空\" />\n\t\t\t\t<ul>\n\t\t\t\t\t<li>kun: す.く, そら, す.かす, あ.く, むな.しい, あ.き, あ.ける, から</li>\n\t\t\t\t\t<li>on: クウ</li>\n\t\t\t\t\t<li>meaning: vacant, sky, vacuum, void, empty<",
+      "isParticipating": true,
+      "groupNum": 0,
+      "groupName": null,
+      "startPos": 135396,
+      "endPos": 135639
+    },
+    {
+      "content": "空",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 135400,
+      "endPos": 135401
+    },
+    {
+      "content": " す.く, そら, す.かす, あ.く, むな.しい, あ.き, あ.ける, から",
+      "isParticipating": true,
+      "groupNum": 2,
+      "groupName": 2,
+      "startPos": 135520,
+      "endPos": 135561
+    },
+    {
+      "content": " クウ",
+      "isParticipating": true,
+      "groupNum": 3,
+      "groupName": 3,
+      "startPos": 135579,
+      "endPos": 135582
+    },
+    {
+      "content": " vacant, sky, vacuum, void, empty",
+      "isParticipating": true,
+      "groupNum": 4,
+      "groupName": 4,
+      "startPos": 135605,
+      "endPos": 135638
+    }
+  ]
+]

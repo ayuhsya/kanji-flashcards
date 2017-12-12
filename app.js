@@ -1,76 +1,46 @@
-var app=angular.module("kanji-flash", []);
+var express = require('express');
+var path = require('path');
+var favicon = require('serve-favicon');
+var logger = require('morgan');
+var cookieParser = require('cookie-parser');
+var bodyParser = require('body-parser');
 
-app.controller('mainCtrl', ['$scope', 'kanjiList', function($scope, kanjiList){
-	$scope.nextButton=false;
-	var q=kanjiList, on, kun;
-	
-	$scope.getNextQuestion=function(){
-		console.log("Fetching question");
-		on=false; kun=false; $scope.nextButton=false;
-		$scope.onAnswer="";
-		$scope.kunAnswer="";
-		let next=q.getNextKanji();
-		if (next) {
-			$scope.question=next.kanji;
-			$scope.kunReading=next.kunReading;
-			$scope.onReading=next.onReading;
-		} else {
-			$scope.question="End.";
-		}
-	}
+var index = require('./routes/index');
+var users = require('./routes/users');
 
-	$scope.checkKunAnswer=function(){
-		console.log("Checking Answer."+$scope.kunReading);
-		if ($scope.kunAnswer===$scope.kunReading) {
-			kun=true;
-			activateNextButton();
-		}
-	}
+var app = express();
 
-	$scope.checkOnAnswer=function(){
-		console.log("Checking Answer."+$scope.onReading);
-		if ($scope.onAnswer===$scope.onReading) {
-			on=true;
-			activateNextButton();
-		}
-	}
+// view engine setup
+app.set('views', path.join(__dirname, 'views'));
+app.set('view engine', 'ejs');
 
-	var activateNextButton=function(){
-		if (kun && on)
-			$scope.nextButton=true;
-	}
+// uncomment after placing your favicon in /public
+//app.use(favicon(path.join(__dirname, 'public', 'favicon.ico')));
+app.use(logger('dev'));
+app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({ extended: false }));
+app.use(cookieParser());
+app.use(express.static(path.join(__dirname, 'public')));
 
-	var init=function(){
-		console.log("Initializing.");
-		$scope.getNextQuestion();
-	}
+app.use('/', index);
+app.use('/users', users);
 
-	init();
-}]);
+// catch 404 and forward to error handler
+app.use(function(req, res, next) {
+  var err = new Error('Not Found');
+  err.status = 404;
+  next(err);
+});
 
-app.factory('kanjiList', ['kanjiDump', function(kanjiDump){
-	console.log("In factory kanjiList");
-	let current=0, kanjiChars=kanjiDump.kanjiChars;
-	let kanjiList={};
+// error handler
+app.use(function(err, req, res, next) {
+  // set locals, only providing error in development
+  res.locals.message = err.message;
+  res.locals.error = req.app.get('env') === 'development' ? err : {};
 
-	kanjiList.getNextKanji=function(){
-		if (current===kanjiChars.length) return undefined;
-		else return kanjiChars[current++];
-	};
+  // render the error page
+  res.status(err.status || 500);
+  res.render('error');
+});
 
-	return kanjiList;
-}]);
-
-app.factory('kanjiDump', function(){
-	console.log("In factory kanjiDump");
-	let o={
-		kanjiChars:[
-			{kanji: "一", kunReading: "ひと", onReading: "いち"},
-			{kanji: "二", kunReading: "ふた", onReading: "に"},
-			{kanji: "三", kunReading: "み", onReading: "さん"},
-			{kanji: "四", kunReading: "よ", onReading: "よん"},
-		]
-	};
-
-	return o;
-})
+module.exports = app;

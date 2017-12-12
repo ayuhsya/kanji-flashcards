@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>感じ Flashcards</title>
+
+	<!--Meta tags-->
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<!--Bootstrap CSS-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+
+	<!--Scripts-->
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>
+    <script src="javascripts/app.js"></script>
+</head>
+<body ng-app="kanji-flash">
+	<div ng-controller="mainCtrl" class="container-fluid">
+		<div class="row align-items-center justify-content-center bg-info text-white">
+			<div class="col text-center">
+				<h1 class="display-1">{{question}}</h1>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-lg"></div>
+		</div>
+
+		<div class="row align-items-center justify-content-center">
+			<div class="col-lg text-center">
+				<div class="input-group">
+					<input type="text" class="form-control" placeholder="Kunyomi Reading" aria-label="Kunyomi Reading" aria-describedby="basic-addon1" ng-model="kunAnswer" ng-change="checkKunAnswer()" ng-class="kunStyle">
+				</div>
+			</div>
+			<div class="col-lg text-center">
+				<div class="input-group">
+					<input type="text" class="form-control" placeholder="Onyomi Reading" aria-label="Onyomi Reading" aria-describedby="basic-addon1" ng-model="onAnswer" ng-change="checkOnAnswer()" ng-class="onStyle">
+				</div>
+			</div>
+		</div>
+
+		<div class="row align-items-center justify-content-center">
+			<div class="col-lg text-center">
+				{{kunReading}}
+			</div>
+			<div class="col-lg text-center">
+				{{onReading}}
+			</div>
+		</div>
+
+		<div class="row justify-content-center" ng-if="nextButton">
+			<button class="btn btn-success btn-block" ng-click="getNextQuestion()">Next</button>
+		</div>
+	</div>
+</body>
+</html>
