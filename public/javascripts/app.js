@@ -7,8 +7,8 @@ app.controller('mainCtrl', ['$scope', 'kanjiDump', function($scope, kanjiDump){
 	$scope.getNextQuestion=function(){
 		console.log("Fetching question");
 		on=false; kun=false; $scope.nextButton=false;
-		$scope.onAnswer="";
-		$scope.kunAnswer="";
+		$scope.onAnswer=""; $scope.kunAnswer="";
+		$scope.showKunyomi=false; $scope.showOnyomi=false; $scope.showMeaning=false;
 		if (current===q.length) {
 			$scope.question="End.";
 		} else {
